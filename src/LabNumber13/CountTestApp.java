@@ -7,7 +7,12 @@ public class CountTestApp {
 
 		System.out.println("Counting alligators...");
 
-
+//add an Alligator class that implements a countable interface to display 
+		Alligator all = new Alligator();
+		
+		//count an alligator object 3 times
+		
+		
 	}
 
 }
